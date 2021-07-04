@@ -1,7 +1,9 @@
 Setting Up the Bot 
 =
 1. Go to `Config.json` and configure your prefix for the bot.
-2. Make a `.env` file like `env-example` and put your bot token like shown on `env-example`.
+2. Make a `.env` file like `env-example` and put your bot token like shown on `env-example`.  
+2. 1. If you using repl the  follow this.
+    2. Go to `Secret`, make a new key called `token` and the `value` as your token.
 3. Run the bot.
 4. Congrats, You Done it.
 
